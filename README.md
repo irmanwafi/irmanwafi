@@ -23,7 +23,7 @@
 
 <!-- Tools I love working with -->
 <details open>
-  <summary><b>💻 Tech Stack</b></summary>
+  <summary><b>🌐 Tech Stack</b></summary>
   <br/>
   <p align="center">
     <!-- Languages I speak -->
@@ -46,7 +46,7 @@
 
 <!-- Stuff I've built that I'm proud of -->
 <details open>
-  <summary><b>🚀 Featured Projects</b></summary>
+  <summary><b>🌐 Projects</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/irmanwafi/irman-portfolio">
@@ -63,7 +63,7 @@
 
 <!-- When I'm in the zone -->
 <details>
-  <summary><b>⌨️ Coding Activity</b></summary>
+  <summary><b>🌐 Coding Activity</b></summary>
   <br/>
   <p align="center">
     <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=irmandev&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000&layout=compact" />
