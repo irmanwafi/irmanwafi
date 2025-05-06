@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:700&size=28&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&repeat=false&width=435&lines=Irman+Wafi" alt="Irman Wafi" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00CC00&background=000000&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+AI+Enthusiast+%7C+Kuala+Lumpur" alt="Description" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00CC00&background=000000&center=true&vCenter=true&width=435&lines=Developer+%26+Data+Analyst+%7C+AI+LLM+%7C+Kuala+Lumpur" alt="Description" />
 </p>
 
 <div align="center">
@@ -50,13 +50,13 @@
   <br/>
   <p align="center">
     <a href="https://github.com/irmanwafi/irman-portfolio">
-      <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=irman-portfolio&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
+      <img width="32%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=irman-portfolio&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
     </a>
     <a href="https://github.com/irmanwafi/xmind">
-      <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=xmind&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
+      <img width="32%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=xmind&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
     </a>
     <a href="https://github.com/irmanwafi/resume-indesign">
-      <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=resume-indesign&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
+      <img width="32%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=resume-indesign&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
     </a>
   </p>
 </details>
