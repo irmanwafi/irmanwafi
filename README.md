@@ -26,7 +26,7 @@
   <summary><b>🌐 Tech Stack</b></summary>
   <br/>
   <p align="center">
-    <!-- Languages I speak -->
+    <!-- Languages -->
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00&labelColor=000000" />
     <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=00FF00&labelColor=000000" />
     <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=00FF00&labelColor=000000" />
@@ -34,13 +34,28 @@
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00&labelColor=000000" />
     <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00FF00&labelColor=000000" />
     <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00FF00&labelColor=000000" />
-    <!-- Databases I query -->
+    <!-- Databases -->
     <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00&labelColor=000000" />
     <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF00&labelColor=000000" />
-    <!-- How I visualize data -->
-    <img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=power-bi&logoColor=00FF00&labelColor=000000" />
-    <img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00&labelColor=000000" />
+    <!-- Frameworks -->
+    <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF00&labelColor=000000" />
+    <!-- Platforms & Services -->
+    <img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=power-bi&logoColor=00FF00&labelColor=000000" />
     <img src="https://img.shields.io/badge/Metabase-000000?style=for-the-badge&logo=metabase&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=00FF00&labelColor=000000" />
+    <!-- Tools -->
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=00FF00&labelColor=000000" />
+    <img src="https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=00FF00&labelColor=000000" />
   </p>
 </details>
 
@@ -48,21 +63,20 @@
 <details open>
   <summary><b>🌐 Projects</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/irmanwafi/irman-portfolio">
+  <p align="center">    <a href="https://github.com/irmanwafi/irman-portfolio">
       <img width="32%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=irman-portfolio&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
+    </a>
+    <a href="https://github.com/irmanwafi/fastpoll-llm">
+      <img width="32%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=fastpoll-llm&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
     </a>
     <a href="https://github.com/irmanwafi/xmind">
       <img width="32%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=xmind&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
-    </a>
-    <a href="https://github.com/irmanwafi/resume-indesign">
-      <img width="32%" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=irmanwafi&repo=resume-indesign&theme=gotham&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00CC00&bg_color=000000" />
     </a>
   </p>
 </details>
 
 <!-- When I'm in the zone -->
-<details>
+<details open>
   <summary><b>🌐 Coding Activity</b></summary>
   <br/>
   <p align="center">
